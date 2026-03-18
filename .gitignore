@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+output/
+*_posts.json
+*_posts.md
+*_posts.csv
+*_checkpoint.json
+.DS_Store
